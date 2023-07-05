@@ -1,6 +1,6 @@
 # damage-calc
 
-[![Damage Calculation Test](https://github.com/自分のGitHubアカウント名/damage-calc-4005-gh-actions/actions/workflows/main.yml/badge.svg)](https://github.com/自分のGitHubアカウント名/damage-calc-4005-gh-actions/actions/workflows/main.yml)
+[![Damage Calculation Test](https://github.com/Hellcat-152/damage-calc-4005-gh-actions/actions/workflows/main.yml/badge.svg)](https://github.com/Hellcat-152/damage-calc-4005-gh-actions/actions/workflows/main.yml)
 
 このモジュールでは、ダメージ計算を行うことができます。  
 
